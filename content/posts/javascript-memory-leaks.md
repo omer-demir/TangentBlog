@@ -1,7 +1,6 @@
 ---
 title: "Memory Leaks in Javascript"
 date: 2017-12-11T11:20:26+01:00
-draft: true
 slug: "memory-leak-js"
 tags: ["javascript"]
 categories: ["javascript"]

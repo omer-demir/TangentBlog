@@ -1,7 +1,6 @@
 ---
 title: "General Things To know"
 date: 2017-12-11T11:20:26+01:00
-draft: true
 slug: "general-things"
 tags: ["javascript","mssql","adonet","rabbitmq"]
 categories: ["things to know"]
