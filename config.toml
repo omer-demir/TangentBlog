@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Tangent Blog"
+theme = "minos"
+canonifyURLs = true
+enableRobotsTXT = true
+[taxonomies]
+  category = "categories"
+  tag = "tags"
