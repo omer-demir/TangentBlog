@@ -78,7 +78,7 @@ the transactions are coordinated by the Microsoft Distributed Transaction Coordi
 
 Pessimistic concurrency involves locking rows at the data source to prevent other users from modifying data in a way that affects the current user.
 
-#### SQL Client Asyn operation
+#### SQL Client Async operation
 
 `Asynchronous Processing=true` in connectionstring
 > Asynchronous calls are not supported if an application also uses the Context Connection connection string keyword.
