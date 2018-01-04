@@ -1,9 +1,0 @@
-[submodule ".\\themes\\minos"]
-	path = .\\themes\\minos
-	url = https://github.com/carsonip/hugo-theme-minos.git
-[submodule "themes/minos"]
-	path = themes/minos
-	url = https://github.com/carsonip/hugo-theme-minos
-[submodule "themes/cactus"]
-	path = themes/cactus
-	url = https://github.com/omer-demir/hugo-theme-cactus-plus
