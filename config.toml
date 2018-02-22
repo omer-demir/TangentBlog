@@ -1,9 +1,23 @@
 baseURL = "https://dazzling-lamport-a78cb3.netlify.com/"
 languageCode = "en-us"
 title = "Tangent Blog"
-theme = "hugo-nuo"
+theme = "ghostwriter"
 canonifyURLs = true
 enableRobotsTXT = true
 [taxonomies]
   category = "categories"
   tag = "tags"
+[Params]
+    intro = true
+    headline = "Tangent Technical Blog"
+    description = "Blogs for myself"
+    github = "https://github.com/omer-demir"
+    email = "ofaruk.demir@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
