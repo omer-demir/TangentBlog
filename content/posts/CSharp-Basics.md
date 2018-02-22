@@ -1,9 +1,9 @@
 ---
 title: "C# Basics"
 date: 2017-12-11T11:20:26+01:00
-slug: "c=sharp=basics"
-tags: ["c#"]
-categories: ["c#"]
+slug: "c-sharp-basics"
+tags: ["csharp"]
+categories: ["csharp"]
 ---
 
 # LINQ Definitions
