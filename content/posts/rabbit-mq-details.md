@@ -1,7 +1,7 @@
 ---
 title: "Rabbit Mq Details"
 date: 2018-02-22T09:36:45+01:00
-slug: "rabbit-mq-details"
+slug: "rabbitmqdetails"
 tags: ["rabbitmq"]
 categories: ["rabbitmq"]
 ---

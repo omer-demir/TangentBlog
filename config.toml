@@ -1,7 +1,7 @@
 baseURL = "https://dazzling-lamport-a78cb3.netlify.com/"
 languageCode = "en-us"
 title = "Tangent Blog"
-theme = "ghostwriter"
+theme = "cactus"
 canonifyURLs = true
 enableRobotsTXT = true
 [taxonomies]

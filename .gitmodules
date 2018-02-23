@@ -7,3 +7,6 @@
 [submodule "themes/ghostwriter"]
 	path = themes/ghostwriter
 	url = git@github.com:omer-demir/ghostwriter.git
+[submodule "themes/hugo-gentoo-theme"]
+	path = themes/hugo-gentoo-theme
+	url = git@github.com:d-kusk/hugo-gentoo-theme.git
